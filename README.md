@@ -1,0 +1,1 @@
+ Knowledge base reflects the contents I have studied and researched over the past years.
