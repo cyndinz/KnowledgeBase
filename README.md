@@ -1,1 +1,1 @@
- Knowledge base reflects the contents I have studied and researched over the past years.
+ Knowledge base reflects the CS related contents I have studied and researched over the past years.
